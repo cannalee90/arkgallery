@@ -114,11 +114,37 @@
             <h3 class="section-subheading text-muted">금광로!</h3>
           </div>
         </div>
-        <div class="row">
-          <div class="embed-responsive embed-responsive-16by9">
-            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CgD4WqHJFtU?autoplay=1"></iframe>
+        <!--<div class="row">-->
+          <!--<div class="embed-responsive embed-responsive-16by9">-->
+            <!--<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CgD4WqHJFtU"></iframe>-->
+          <!--</div>-->
+        <!--</div>-->
+        <div class="row text-center">
+          <div class="col-md-8">
+            <br>
+           <h1>arkgallery</h1>
+            <br>
+            <br>
+            <div class="row text-center">
+              <div class="col-md-6">
+                <h4 class="service-heading">순위</h4>
+                <p class="text-muted" id="rate"></p>
+              </div>
+              <div class="col-md-6">
+                <h4 class="service-heading">투표중인 아크</h4>
+                <p class="text-muted" id="totalvote"></p>
+              </div>
+              <div class="col-md-12">
+                <h4 class="service-heading">생성한 아크</h4>
+                <p class="text-muted" id="forged"></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <canvas id="pieChart"></canvas>
           </div>
         </div>
+
       </div>
     </section>
     <!-- About -->
@@ -314,7 +340,7 @@
     <script src="web/view/vendor/jquery/jquery.min.js"></script>
     <script src="web/view/vendor/popper/popper.min.js"></script>
     <script src="web/view/vendor/bootstrap/js/bootstrap.min.js"></script>
-
+    <script src="web/view/vendor/mdb/js/mdb.min.js"></script>
     <!-- Plugin JavaScript -->
     <script src="web/view/vendor/jquery-easing/jquery.easing.min.js"></script>
 
@@ -324,7 +350,7 @@
 
     <!-- Custom scripts for this template -->
     <script src="web/view/js/agency.min.js"></script>
-
+    <script src="web/view/js/delegate.js"></script>
   </body>
 
 </html>
