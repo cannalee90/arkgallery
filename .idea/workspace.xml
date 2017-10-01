@@ -30,7 +30,7 @@
             <state relative-caret-position="-4845">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1506857727987" expanded="true" signature="40500:40563" ph="..." />
+                <marker date="1506857880138" expanded="true" signature="40500:40563" ph="..." />
               </folding>
             </state>
           </provider>
@@ -103,8 +103,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/view/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="199" column="56" selection-start-line="199" selection-start-column="56" selection-end-line="199" selection-end-column="56" />
+            <state relative-caret-position="288">
+              <caret line="189" column="18" selection-start-line="189" selection-start-column="18" selection-end-line="189" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -723,7 +723,7 @@
         <state relative-caret-position="-4845">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1506857727987" expanded="true" signature="40500:40563" ph="..." />
+            <marker date="1506857880138" expanded="true" signature="40500:40563" ph="..." />
           </folding>
         </state>
       </provider>
@@ -790,8 +790,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/view/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="199" column="56" selection-start-line="199" selection-start-column="56" selection-end-line="199" selection-end-column="56" />
+        <state relative-caret-position="288">
+          <caret line="189" column="18" selection-start-line="189" selection-start-column="18" selection-end-line="189" selection-end-column="18" />
           <folding />
         </state>
       </provider>
