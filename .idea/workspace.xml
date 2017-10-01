@@ -61,8 +61,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/view/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="309" column="78" selection-start-line="309" selection-start-column="78" selection-end-line="309" selection-end-column="78" />
+            <state relative-caret-position="361">
+              <caret line="307" column="30" selection-start-line="307" selection-start-column="30" selection-end-line="307" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -868,7 +868,7 @@
         <state relative-caret-position="-4845">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1506867474747" expanded="true" signature="50367:50430" ph="..." />
+            <marker date="1506867615292" expanded="true" signature="50367:50430" ph="..." />
           </folding>
         </state>
       </provider>
@@ -983,8 +983,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/view/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="309" column="78" selection-start-line="309" selection-start-column="78" selection-end-line="309" selection-end-column="78" />
+        <state relative-caret-position="361">
+          <caret line="307" column="30" selection-start-line="307" selection-start-column="30" selection-end-line="307" selection-end-column="30" />
           <folding />
         </state>
       </provider>
